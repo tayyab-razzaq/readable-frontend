@@ -1,4 +1,7 @@
 # readable-frontend
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tayyabRazzaq/readable-frontend.svg)](https://greenkeeper.io/)
+
 Frontend React App for readable project of Udacity
 
 
